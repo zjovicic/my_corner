@@ -10,7 +10,7 @@ margin-left:auto;
 margin-right:auto;
 }
 
-@media (max-width: 800px) {
+@media only screen and (max-width: 1024px) {
   body {
     font-size: 30px;
     line-height: 1.5;
